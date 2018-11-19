@@ -4,6 +4,7 @@ void main(){
 	for(z=200;z>0;z-=100){
 		printf("Z = %d\n",z);
 		printf("GG");
+		printf("NOOOOOOOOOOOOOOOOOOOOOOOOOOOO");
 
 	}
 				
